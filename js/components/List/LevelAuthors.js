@@ -14,7 +14,7 @@ export default {
         },
     },
     template: `
-        <div class="level-authors">
+        <div class="itsagelaaaa">
             <template v-if="selfVerified">
                 <div class="type-title-sm">Creator & Verifier</div>
                 <p class="type-body">
